@@ -22,7 +22,10 @@ SAIDA = RAIZ / "docs" / "index.html"
 USER_AGENT = "Mozilla/5.0 (compatible; busca-apartamento-pessoal/1.0)"
 KA_BASE = "https://www.kleinanzeigen.de"
 WF_BASE = "https://wunderflats.com"
-KA_EXCLUIR = re.compile(r"wg[- ]?zimmer|gesuch|\bsuche\b|tauschwohnung|wohnungstausch", re.I)
+KA_EXCLUIR = re.compile(
+    r"wg[- ]?zimmer|\bwg\b(?![- ]?(geeignet|tauglich))|gesuch|\bsuche\b|tauschwohnung|wohnungstausch|wohnungsswap",
+    re.I,
+)
 KA_SEM_COZINHA = re.compile(r"(ohne|keine)\s+(einbauk|ebk)", re.I)
 KA_COM_COZINHA = re.compile(r"einbauk(ü|ue)che|\bebk\b", re.I)
 
@@ -69,7 +72,10 @@ def ka_ler_cartoes(pagina):
         titulo = re.search(r'"title":"((?:[^"\\]|\\.)*)"', bloco) or re.search(r'aria-label="([^"]+)"', bloco)
         descricao = re.search(r'"description":"((?:[^"\\]|\\.)*)"', bloco)
         preco = re.search(r"text-title3[^>]*>\s*([\d.]+)\s*€", bloco)
-        medidas = re.search(r"text-onSurfaceSubdued\">\s*(?:([\d.,]+)\s*m²)?(?:\s*·\s*)?(?:([\d.,]+)\s*Zi)?", bloco)
+        medidas = re.search(r'font-strong text-onSurfaceSubdued">([^<]*)</p>', bloco)
+        medidas = medidas.group(1) if medidas else ""
+        area = re.search(r"([\d.,]+)\s*m²", medidas)
+        quartos = re.search(r"([\d.,]+)\s*Zi", medidas)
         local = re.search(r"\b(144[6-8]\d)\s+([^<\n]+)", bloco)
         foto = re.search(r'<img[^>]+src="(https://img\.kleinanzeigen\.de[^"]+)"', bloco)
         cartoes.append({
@@ -79,8 +85,8 @@ def ka_ler_cartoes(pagina):
             "resumo": html.unescape(descricao.group(1)) if descricao else "",
             "url": KA_BASE + link.group(1),
             "preco": numero_de(preco.group(1)) if preco else None,
-            "area": numero_de(medidas.group(1)) if medidas else None,
-            "quartos": numero_de(medidas.group(2)) if medidas else None,
+            "area": numero_de(area.group(1)) if area else None,
+            "quartos": numero_de(quartos.group(1)) if quartos else None,
             "local": f"{local.group(1)} {texto_limpo(local.group(2))}" if local else "",
             "foto": html.unescape(foto.group(1)) if foto else "",
         })
@@ -112,11 +118,14 @@ def ka_coletar(config, conhecidos, pausa):
         elif abertos < config["maximo_anuncios_abertos_por_site"]:
             abertos += 1
             pagina = baixar(cartao["url"], pausa)
+            # So a descricao do proprio anuncio: o resto da pagina cita Einbaukueche em outros anuncios.
+            achado = re.search(r'<p id="viewad-description-text"[^>]*>(.*?)</p>', pagina, re.S)
+            texto = cartao["titulo"] + " " + (texto_limpo(achado.group(1)) if achado else "")
             if 'checktag">Einbauküche' in pagina:
                 cartao["cozinha"] = "confirmada"
-            elif KA_SEM_COZINHA.search(pagina):
+            elif KA_SEM_COZINHA.search(texto):
                 cartao["cozinha"] = "sem"
-            elif KA_COM_COZINHA.search(pagina):
+            elif KA_COM_COZINHA.search(texto):
                 cartao["cozinha"] = "citada"
             else:
                 cartao["cozinha"] = "sem"
