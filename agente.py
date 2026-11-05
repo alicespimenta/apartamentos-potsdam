@@ -88,7 +88,7 @@ def ka_ler_cartoes(pagina):
             "area": numero_de(area.group(1)) if area else None,
             "quartos": numero_de(quartos.group(1)) if quartos else None,
             "local": f"{local.group(1)} {texto_limpo(local.group(2))}" if local else "",
-            "foto": html.unescape(foto.group(1)) if foto else "",
+            "foto": re.sub(r"rule=\$_\d+", "rule=$_59", html.unescape(foto.group(1))) if foto else "",
         })
     return cartoes
 
@@ -247,11 +247,11 @@ def cartao_html(imovel, novo):
     imagem = f'<img src="{e(foto)}" alt="" loading="lazy">' if foto.startswith("https://") else '<div class="sem-foto">Sem foto</div>'
     fatos = []
     if imovel.get("area"):
-        fatos.append(f'{imovel["area"]:g} m²')
+        fatos.append(f'{imovel["area"]:g} m²'.replace(".", ","))
     else:
         fatos.append("m² não informado")
     if imovel.get("quartos"):
-        fatos.append(f'{imovel["quartos"]:g} quartos')
+        fatos.append(f'{imovel["quartos"]:g} cômodos'.replace(".", ","))
     etiquetas = []
     if novo:
         etiquetas.append('<span class="tag novo">Novo</span>')
