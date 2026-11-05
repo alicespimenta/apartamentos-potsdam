@@ -14,7 +14,7 @@
   "links_manuais": {
     "ImmobilienScout24": "https://www.immobilienscout24.de/Suche/de/brandenburg/potsdam/wohnung-mieten"
   },
-  "fuso_horario": "America/Sao_Paulo",
+  "fuso_horario": "Europe/Berlin",
   "pausa_entre_paginas_segundos": 4,
   "maximo_anuncios_abertos_por_site": 25
 }
