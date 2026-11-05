@@ -22,8 +22,8 @@ p { margin:0; }
 .grade { display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:16px; }
 .cartao { display:flex; flex-direction:column; overflow:hidden; color:inherit; text-decoration:none; background:var(--cartao); border:1px solid var(--linha); border-radius:10px; }
 .cartao:hover, .cartao:focus-visible { border-color:var(--destaque); }
-.foto { aspect-ratio:3/2; background:var(--linha); }
-.foto img { display:block; width:100%; height:100%; object-fit:cover; }
+.foto { position:relative; overflow:hidden; aspect-ratio:3/2; background:var(--linha); }
+.foto img { position:absolute; inset:0; display:block; width:100%; height:100%; object-fit:cover; }
 .sem-foto { display:grid; place-items:center; height:100%; color:var(--suave); font-size:14px; }
 .corpo { display:flex; flex:1; flex-direction:column; gap:2px; padding:14px; }
 .linha { display:flex; justify-content:space-between; align-items:baseline; gap:8px; }
@@ -43,7 +43,7 @@ footer a { color:var(--destaque); }
 <main>
 <h1>Apartamentos em Potsdam</h1>
 <p class="sub">Potsdam · 40 m² ou mais · com Einbauküche · Wunderflats até 1.500 € · Kleinanzeigen até 1.350 €</p>
-<p class="sub">Atualizado em 05/11/2026 às 21:39</p>
+<p class="sub">Atualizado em 05/11/2026 às 21:41</p>
 <h2>Novos hoje (15)</h2>
 <div class="grade"><a class="cartao" href="https://www.kleinanzeigen.de/s-anzeige/drei-zimmerwohnung-in-potsdam-zentrum-neue-kueche-und-moebliert/3561748839-203-7962" target="_blank" rel="noopener noreferrer">
   <div class="foto"><img src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1b3de66-b715-4bb4-9417-6367510f858a?rule=$_59.AUTO" alt="" loading="lazy"></div>
