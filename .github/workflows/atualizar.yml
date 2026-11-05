@@ -1,0 +1,40 @@
+name: Atualizar apartamentos
+
+on:
+  schedule:
+    # 5h e 17h na Alemanha no horario de inverno (UTC+1)
+    - cron: "0 4,16 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - agente.py
+      - config.json
+      - .github/workflows/atualizar.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ler sites, salvar e publicar
+        run: |
+          set +e
+          python3 agente.py
+          codigo=$?
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/imoveis.json docs/index.html
+          git diff --cached --quiet || git commit -m "Atualiza apartamentos"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          exit $codigo
