@@ -240,7 +240,12 @@ def moeda(valor):
     return f"{valor:,.0f} €".replace(",", ".")
 
 
-def cartao_html(imovel, novo):
+def preco_por_m2(imovel):
+    """Quanto menor, melhor. Sem metragem vai para o fim da lista."""
+    return imovel["preco"] / imovel["area"] if imovel.get("area") else float("inf")
+
+
+def cartao_html(imovel, novo, top):
     e = lambda valor: html.escape(str(valor or ""), quote=True)
     url = imovel["url"] if imovel["url"].startswith("https://") else "#"
     foto = imovel.get("foto") or ""
@@ -252,7 +257,11 @@ def cartao_html(imovel, novo):
         fatos.append("m² não informado")
     if imovel.get("quartos"):
         fatos.append(f'{imovel["quartos"]:g} cômodos'.replace(".", ","))
+    if imovel.get("area"):
+        fatos.append(f"{preco_por_m2(imovel):.2f} €/m²".replace(".", ","))
     etiquetas = []
+    if top:
+        etiquetas.append('<span class="tag top">Top 3</span>')
     if novo:
         etiquetas.append('<span class="tag novo">Novo</span>')
     cozinha = {"confirmada": "Einbauküche", "citada": "Einbauküche citada no texto", "verificar": "Confira a cozinha"}
@@ -276,7 +285,8 @@ def cartao_html(imovel, novo):
 
 def gerar_html(estado, config, situacao, hoje, agora):
     ativos = [i for i in estado["imoveis"].values() if i.get("ativo")]
-    ativos.sort(key=lambda i: (i["primeira_vez"], -i["preco"]), reverse=True)
+    ativos.sort(key=preco_por_m2)
+    top3 = {i["id"] for i in [a for a in ativos if a.get("area") and not a.get("wbs")][:3]}
     novos = [i for i in ativos if i["primeira_vez"] == hoje]
     demais = [i for i in ativos if i["primeira_vez"] != hoje]
     linhas = "".join(
@@ -289,7 +299,7 @@ def gerar_html(estado, config, situacao, hoje, agora):
         f'<li><a href="{html.escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(nome)}</a>: abrir a busca manualmente</li>'
         for nome, url in config.get("links_manuais", {}).items()
     )
-    grade = lambda lista, novo: "".join(cartao_html(i, novo) for i in lista)
+    grade = lambda lista, novo: "".join(cartao_html(i, novo, i["id"] in top3) for i in lista)
     secao_novos = f'<div class="grade">{grade(novos, True)}</div>' if novos else '<p class="vazio">Nenhum apartamento novo hoje.</p>'
     secao_demais = f'<h2>Ainda disponíveis ({len(demais)})</h2><div class="grade">{grade(demais, False)}</div>' if demais else ""
     filtros = (
@@ -305,7 +315,7 @@ def gerar_html(estado, config, situacao, hoje, agora):
 <meta name="robots" content="noindex">
 <title>Apartamentos em Potsdam</title>
 <style>
-:root {{ --fundo:#f6f4ef; --cartao:#fff; --texto:#22211e; --suave:#6b675e; --linha:#e3dfd5; --destaque:#1f6f5c; --destaque-texto:#fff; --alerta:#a4461c; }}
+:root {{ --fundo:#f6f4ef; --cartao:#fff; --texto:#22211e; --suave:#6b675e; --linha:#e3dfd5; --destaque:#1f6f5c; --destaque-texto:#fff; --alerta:#a4461c; --top:#e2b23c; --top-texto:#2b2108; }}
 @media (prefers-color-scheme: dark) {{ :root {{ --fundo:#191a18; --cartao:#242522; --texto:#efece4; --suave:#a8a498; --linha:#3a3b36; --destaque:#5cc3a6; --destaque-texto:#10231e; --alerta:#f0a27c; }} }}
 * {{ box-sizing:border-box; }}
 body {{ margin:0; background:var(--fundo); color:var(--texto); font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }}
@@ -330,6 +340,7 @@ p {{ margin:0; }}
 .tags {{ display:flex; flex-wrap:wrap; gap:6px; margin:10px 0; }}
 .tag {{ padding:2px 8px; border:1px solid var(--linha); border-radius:99px; font-size:12.5px; }}
 .tag.novo {{ background:var(--destaque); border-color:var(--destaque); color:var(--destaque-texto); font-weight:600; }}
+.tag.top {{ background:var(--top); border-color:var(--top); color:var(--top-texto); font-weight:700; }}
 .tag.alerta {{ border-color:var(--alerta); color:var(--alerta); }}
 .data {{ margin-top:auto; }}
 ul {{ margin:0; padding-left:20px; }}
@@ -342,7 +353,7 @@ footer a {{ color:var(--destaque); }}
 <main>
 <h1>Apartamentos em Potsdam</h1>
 <p class="sub">{filtros}</p>
-<p class="sub">Atualizado em {html.escape(agora)}</p>
+<p class="sub">Ordenado pelo menor preço por m² · Atualizado em {html.escape(agora)}</p>
 <h2>Novos hoje ({len(novos)})</h2>
 {secao_novos}
 {secao_demais}
