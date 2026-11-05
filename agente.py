@@ -321,8 +321,8 @@ p {{ margin:0; }}
 .grade {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(270px,1fr)); gap:16px; }}
 .cartao {{ display:flex; flex-direction:column; overflow:hidden; color:inherit; text-decoration:none; background:var(--cartao); border:1px solid var(--linha); border-radius:10px; }}
 .cartao:hover, .cartao:focus-visible {{ border-color:var(--destaque); }}
-.foto {{ aspect-ratio:3/2; background:var(--linha); }}
-.foto img {{ display:block; width:100%; height:100%; object-fit:cover; }}
+.foto {{ position:relative; overflow:hidden; aspect-ratio:3/2; background:var(--linha); }}
+.foto img {{ position:absolute; inset:0; display:block; width:100%; height:100%; object-fit:cover; }}
 .sem-foto {{ display:grid; place-items:center; height:100%; color:var(--suave); font-size:14px; }}
 .corpo {{ display:flex; flex:1; flex-direction:column; gap:2px; padding:14px; }}
 .linha {{ display:flex; justify-content:space-between; align-items:baseline; gap:8px; }}
