@@ -1,0 +1,20 @@
+{
+  "cidade": "Potsdam",
+  "area_minima_m2": 40,
+  "wunderflats": {
+    "preco_maximo": 1500,
+    "pessoas_minimo": 2,
+    "busca": "https://wunderflats.com/en/furnished-apartments/Potsdam%2C%20Brandenburg%2C%20Germany?search=place.62662714&minPrice=0&maxPrice=1500&totalDoubleBeds=1&homeType=ENTIRE_APARTMENT"
+  },
+  "kleinanzeigen": {
+    "preco_maximo": 1350,
+    "paginas": 3,
+    "busca": "https://www.kleinanzeigen.de/s-wohnung-mieten/potsdam/c203l7958"
+  },
+  "links_manuais": {
+    "ImmobilienScout24": "https://www.immobilienscout24.de/Suche/de/brandenburg/potsdam/wohnung-mieten"
+  },
+  "fuso_horario": "America/Sao_Paulo",
+  "pausa_entre_paginas_segundos": 4,
+  "maximo_anuncios_abertos_por_site": 25
+}
