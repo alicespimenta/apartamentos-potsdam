@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -64,11 +64,11 @@
    "area": 84.62,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02d09d83-e2e8-4f5b-8891-da347754a6c4?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/053409ff-9b1d-4ce2-b962-be47d9af8ad2?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -86,7 +86,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -104,7 +104,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -118,11 +118,11 @@
    "area": 43.97,
    "quartos": 1.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/6471e0c2-d915-4f72-aa56-17d1144f0a74?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bdb42fa1-76ec-4a8a-a382-2eba69467c0c?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -136,11 +136,11 @@
    "area": 72.84,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3fb4a42b-1506-4f21-a7e8-79c7efa77a40?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d95c1f93-5a23-4999-b27b-824e69f99040?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": true,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -158,7 +158,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -176,7 +176,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -208,11 +208,11 @@
    "area": 62.05,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8ea36ed9-219f-40db-96f4-b0d1a07ffdd1?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e0a4ed4-fc9e-4135-ab14-a8149df5c617?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -226,11 +226,11 @@
    "area": 60.1,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df3e0406-a0ae-4c37-a747-dd7ddcc21553?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36335484-86e7-40d1-ba7b-036be680c88c?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -244,11 +244,11 @@
    "area": 69.2,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bb822c2-33a3-469d-9bf4-23c8793dcf87?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/333c802f-cf46-473c-8e29-52566735d372?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -262,11 +262,11 @@
    "area": 58.0,
    "quartos": 1.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1521e44-e1eb-49f0-a319-ac8459009628?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcaaec5d-3574-47cf-a632-89d60f5defde?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -284,7 +284,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -302,7 +302,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -320,7 +320,7 @@
    "cozinha": "citada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -338,7 +338,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
   },
@@ -356,7 +356,7 @@
    "cozinha": "citada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": true
   },
@@ -376,7 +376,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-05",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557264167": {
    "id": "ka-3557264167",
@@ -394,7 +394,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-05",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3528094818": {
    "id": "ka-3528094818",
@@ -412,8 +412,62 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-05",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
+  },
+  "ka-3562992094": {
+   "id": "ka-3562992094",
+   "site": "Kleinanzeigen",
+   "titulo": "4-Raum Whg + 68 m² Gartenfläche inkl. 8m² Terrasse-provisionsfrei",
+   "resumo": "4-Raum Wohnung im Erdgeschoss mit 64,1 m² Wohnfläche sowie 68 m² eigener Gartenfläche inkl. 8 m² Terrasse - provisionsfrei zu vermieten!\\n\\nKaltmiete: 1.175,55 € + 90,00 € Garten\\nWohnfläche: 64,1 m²\\nRäume: 4\\nEtagenzahl: 4 – Etage EG\\nGesamtmiete: 1.2...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/4-raum-whg-68-m-gartenflaeche-inkl-8m-terrasse-provisionsfrei/3562992094-203-21284",
+   "preco": 1266.0,
+   "area": 64.1,
+   "quartos": 4.0,
+   "local": "14482 Babelsberg Süd",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12452768-6610-46f7-812a-2b0322e83ed4?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3562962656": {
+   "id": "ka-3562962656",
+   "site": "Kleinanzeigen",
+   "titulo": "Der Augenblick ist jetzt !!",
+   "resumo": "Freuen Sie sich auf die Besichtigung dieser hellen und großzügig geschnittenen 3-Zimmerwohnung mit Balkon.\\nDie Wohnung wird unrenoviert vermietet. Die Böden der Wohnung sind mit attraktiven Vinyl-Planken in Holzoptik ausgestattet. Ein weiteres Hig...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/der-augenblick-ist-jetzt-/3562962656-203-7965",
+   "preco": 1091.0,
+   "area": 86.65,
+   "quartos": 3.0,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/945aa7ae-46f6-49df-9d0b-1fbb75717aa0?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3562939315": {
+   "id": "ka-3562939315",
+   "site": "Kleinanzeigen",
+   "titulo": "Ihre Traumwohnung - mit dem Aufzug ins Wohnglück !!",
+   "resumo": "Komplett renoviert geht diese wunderschöne 1,5 -Zimmerwohnung mit Balkon an den Start. Diese ist bequem per Aufzug erreichbar.\\nDie Wohnräume sind weiß gestrichen. Die Böden der Wohnung sind mit Vinyl-Planken in Holzoptik ausgestattet. Ein weiteres...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/ihre-traumwohnung-mit-dem-aufzug-ins-wohnglueck-/3562939315-203-7965",
+   "preco": 613.0,
+   "area": 50.84,
+   "quartos": 1.5,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/4703d67e-c3f3-4259-909d-171b0a104a53?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 4
+ "execucoes": 5
 }
