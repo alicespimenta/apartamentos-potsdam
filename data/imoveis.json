@@ -136,7 +136,7 @@
    "area": 72.84,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d95c1f93-5a23-4999-b27b-824e69f99040?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cd8e98a-e9c5-4ac6-bcee-3a335a69c334?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": true,
    "primeira_vez": "2026-11-05",
@@ -358,7 +358,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-06",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3528009255": {
    "id": "ka-3528009255",
@@ -467,7 +467,25 @@
    "ultima_vez": "2026-11-06",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3563430967": {
+   "id": "ka-3563430967",
+   "site": "Kleinanzeigen",
+   "titulo": "Familie sucht wegen Arbeit dringend Wohnung in Potsdam",
+   "resumo": "Familie mit 1 Kind ( 1 Jahr ) sucht dringends passende Wohnung in Potsdam .\\nDie Frau bekommt eine neue Arbeit in Gross Glienicke und deshalb brauchen wir per sofort eine Wohnung hier. Der Arbeitsweg wäre sonst 2.5 Stunden weil auf öffentliche Verk...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/familie-sucht-wegen-arbeit-dringend-wohnung-in-potsdam/3563430967-203-7963",
+   "preco": 800.0,
+   "area": 60.0,
+   "quartos": 2.5,
+   "local": "14469 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37de49e9-d941-4cf4-8fad-5016d6ee830f?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 5
+ "execucoes": 6
 }
