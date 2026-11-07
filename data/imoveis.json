@@ -136,7 +136,7 @@
    "area": 72.84,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2267ca1-1b97-483e-bfd3-068628f44909?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/4328cb79-9eb6-417a-87fb-22800e34a91f?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": true,
    "primeira_vez": "2026-11-05",
@@ -521,7 +521,25 @@
    "ultima_vez": "2026-11-07",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3455499108": {
+   "id": "ka-3455499108",
+   "site": "Kleinanzeigen",
+   "titulo": "Moderne Etagenwohnung zur Miete mit Balkon in Potsdam - Wentzel Dr.",
+   "resumo": "Diese 2-Zimmer-Wohnung mit ca. 80 m² Wohnfläche präsentiert sich mit der klaren Anmutung eines modernen Neubaus aus dem Jahr 2019 und verbindet zeitgemäße Architektur mit einem angenehm ruhigen Wohngefühl. Auf der 1. Etage gelegen, wirkt der Grund...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/moderne-etagenwohnung-zur-miete-mit-balkon-in-potsdam-wentzel-dr-/3455499108-203-7967",
+   "preco": 1110.0,
+   "area": 79.84,
+   "quartos": 2.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f22d8dee-ab7e-4d11-a1ea-a9777ade4d1a?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-07",
+   "ultima_vez": "2026-11-07",
+   "preco_anterior": null,
+   "ativo": true
   }
  },
- "execucoes": 7
+ "execucoes": 8
 }
