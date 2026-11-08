@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -70,7 +70,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-07",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3562728080": {
    "id": "ka-3562728080",
@@ -86,7 +86,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -104,7 +104,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -140,7 +140,7 @@
    "cozinha": "sem",
    "wbs": true,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -158,7 +158,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -176,7 +176,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -208,11 +208,11 @@
    "area": 62.05,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aa54978b-6525-4d7b-a3c8-dc3993dda6ba?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c76a227e-d72f-4d32-b12a-709baa191a9d?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -226,11 +226,11 @@
    "area": 60.1,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44b19453-42d8-4094-9fa5-b1e5718d8726?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/2159a5ef-7f39-473c-aca0-f3f12d2602a9?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -244,11 +244,11 @@
    "area": 69.2,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc6a2375-fdf4-4e51-ba82-4f1f4f5b1a4a?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/135b98c3-c304-47dc-be5c-d205666c5f41?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -262,11 +262,11 @@
    "area": 58.0,
    "quartos": 1.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0f812c7-a0c7-4c91-aba8-52fd31f54a87?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/335d4fd4-b221-47ac-9553-87c660559fab?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -322,7 +322,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-07",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3559280868": {
    "id": "ka-3559280868",
@@ -428,7 +428,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -442,11 +442,11 @@
    "area": 86.65,
    "quartos": 3.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5afc28b3-a919-4b96-8d0a-d477d0a3f520?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/71b8973f-cdc5-4b69-958f-ac58a306b3b4?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -460,11 +460,11 @@
    "area": 50.84,
    "quartos": 1.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed8365e9-0eeb-4faa-b50b-96400c91caba?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b84f614e-355a-4c78-9b46-ffdf3e995f5f?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -482,7 +482,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -500,7 +500,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   },
@@ -518,7 +518,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": false
   },
@@ -536,10 +536,46 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-07",
+   "ultima_vez": "2026-11-08",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3564816608": {
+   "id": "ka-3564816608",
+   "site": "Kleinanzeigen",
+   "titulo": "2 Zimmer 51 qm, 2. OG mit Balkon, Altbau, nahe Schloss Sanssouci",
+   "resumo": "• 2 Zimmer Wohnung, 51 qm, 2. OG im denkmalgeschützten Altbau,\\nnahe Schloss Sanssouci\\n• vollgefliestes Wannenbad, Küche, Balkon\\n• Gaszentralheizung\\n• ruhige Lage mit Blick auf begrünten Hofgarten\\n• verkehrsgünstig gelegen: Busse, Straßenbahn und S...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-51-qm-2-og-mit-balkon-altbau-nahe-schloss-sanssouci/3564816608-203-7968",
+   "preco": 574.0,
+   "area": 51.0,
+   "quartos": 2.0,
+   "local": "14471 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94857805-b96b-4fa3-be99-90f2a8876da5?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3564763683": {
+   "id": "ka-3564763683",
+   "site": "Kleinanzeigen",
+   "titulo": "Sehr helle 2-Zimmer-Wohnung - frisch renoviert mit Balkon",
+   "resumo": "Sehr helle 2-Zimmer-Wohnung mit Balkon, Einbauküche & Aufzug\\n\\nFrisch renovierte Zweizimmerwohnung mit ca. 55 m² in der Gartenstraße in Potsdam-Fahrland zu vermieten.\\n\\nDie Wohnung liegt im 3. Obergeschoss eines gepflegten Mehrfamilienhauses mit Auf...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/sehr-helle-2-zimmer-wohnung-frisch-renoviert-mit-balkon/3564763683-203-7966",
+   "preco": 660.0,
+   "area": 55.0,
+   "quartos": 2.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/aed47d70-e58b-4f11-9823-2b839ceb75fe?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
   }
  },
- "execucoes": 8
+ "execucoes": 9
 }
