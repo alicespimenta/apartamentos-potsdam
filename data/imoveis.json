@@ -178,7 +178,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-08",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3561479953": {
    "id": "ka-3561479953",
@@ -544,7 +544,7 @@
    "id": "ka-3564816608",
    "site": "Kleinanzeigen",
    "titulo": "2 Zimmer 51 qm, 2. OG mit Balkon, Altbau, nahe Schloss Sanssouci",
-   "resumo": "• 2 Zimmer Wohnung, 51 qm, 2. OG im denkmalgeschützten Altbau,\\nnahe Schloss Sanssouci\\n• vollgefliestes Wannenbad, Küche, Balkon\\n• Gaszentralheizung\\n• ruhige Lage mit Blick auf begrünten Hofgarten\\n• verkehrsgünstig gelegen: Busse, Straßenbahn und S...",
+   "resumo": "• 2 Zimmer Wohnung, 51 qm, 2. OG im denkmalgeschützten Altbau,\\nnahe Schloss Sanssouci\\n• vollgefliestes Wannenbad, Küche, Balkon\\n• Gaszentralheizung\\n• Sellostraße; ruhige Lage mit Blick auf begrünten Hofgarten\\n• verkehrsgünstig gelegen: Busse, Stra...",
    "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-51-qm-2-og-mit-balkon-altbau-nahe-schloss-sanssouci/3564816608-203-7968",
    "preco": 574.0,
    "area": 51.0,
@@ -575,7 +575,43 @@
    "ultima_vez": "2026-11-08",
    "preco_anterior": null,
    "ativo": true
+  },
+  "ka-3565814351": {
+   "id": "ka-3565814351",
+   "site": "Kleinanzeigen",
+   "titulo": "Drei Zimmerwohnung in Mitte von Potsdam zum abgeben",
+   "resumo": "Ich möchte meine Dreizimmerwohnung abgeben mit einer ablöse. Die Besichtigung ist ab 3. Dezember. Die Voraussetzungen sind die erste paar Monate beziehungsweise 4-5 Monate als Untermieter hier zu bleiben, damit der Vermieter nach 4-5 Monate sie al...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/drei-zimmerwohnung-in-mitte-von-potsdam-zum-abgeben/3565814351-203-7962",
+   "preco": 866.0,
+   "area": 69.9,
+   "quartos": 3.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48a1aba3-5904-4157-831f-163f05e4930d?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3565732229": {
+   "id": "ka-3565732229",
+   "site": "Kleinanzeigen",
+   "titulo": "Potsdam / Furnished Apartment – 5 min by foot to main station",
+   "resumo": "+++ THE RENT INCLUDES ALL EXPENSES (basic rent + all utilities such as heating, water, electricity, internet)\\n+++ Apartment comprising of two rooms + kitchen + bathroom + storage\\n+++ Premium quality, furnished with great love to details\\n+++ Premiu...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/potsdam-furnished-apartment-5-min-by-foot-to-main-station/3565732229-203-7962",
+   "preco": 1200.0,
+   "area": 50.5,
+   "quartos": 2.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ee16e10-5285-491e-b7fc-d900897c8891?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-08",
+   "ultima_vez": "2026-11-08",
+   "preco_anterior": null,
+   "ativo": true
   }
  },
- "execucoes": 9
+ "execucoes": 10
 }
