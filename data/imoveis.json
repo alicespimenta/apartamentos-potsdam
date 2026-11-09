@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -86,7 +86,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -106,7 +106,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-09",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3562244344": {
    "id": "ka-3562244344",
@@ -140,7 +140,7 @@
    "cozinha": "sem",
    "wbs": true,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -158,7 +158,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -212,7 +212,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -230,7 +230,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -428,7 +428,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -446,7 +446,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -464,7 +464,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -482,7 +482,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -500,7 +500,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -518,7 +518,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -536,7 +536,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -554,7 +554,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": false
   },
@@ -572,7 +572,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -590,7 +590,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -608,7 +608,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   },
@@ -644,10 +644,28 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-09",
+   "ultima_vez": "2026-11-10",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3566611284": {
+   "id": "ka-3566611284",
+   "site": "Kleinanzeigen",
+   "titulo": "Wohnung in Potsdam",
+   "resumo": "Schöne 2 Zimmer Wohnung mit Balkon in Potsdam Waldstadt sucht neuen Mieter ab Januar 2027.\\n\\nDie Wohnung verfügt über 2 Zimmer, einen Flur sowie Küche, Badezimmer mit Badewanne und einen Balkon.\\nDesweiteren gehört auch ein Keller zu der Wohnung.\\nAu...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-potsdam/3566611284-203-7967",
+   "preco": 1015.0,
+   "area": 58.0,
+   "quartos": 2.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e7e7772-bce2-4b00-a512-d4f32ef3f7d3?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-10",
+   "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
   }
  },
- "execucoes": 11
+ "execucoes": 12
 }
