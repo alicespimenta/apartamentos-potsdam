@@ -160,7 +160,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-10",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3561748839": {
    "id": "ka-3561748839",
@@ -442,7 +442,7 @@
    "area": 86.65,
    "quartos": 3.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9952c40-5479-4498-9736-4f8b63e4c427?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8f039ea-5212-4d0b-bc67-ff3c5472e67a?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
@@ -665,7 +665,61 @@
    "ultima_vez": "2026-11-10",
    "preco_anterior": null,
    "ativo": true
+  },
+  "ka-3556397179": {
+   "id": "ka-3556397179",
+   "site": "Kleinanzeigen",
+   "titulo": "Schöne 2-Zimmer-Wohnung im Holländischen Viertel",
+   "resumo": "Ich biete diese Wohnung ab dem 15.11.26 zur Untermiete an. Sie befindet sich im Holländischen Viertel in einem sehr gepflegten Zustand.\\n\\n2026 wurde modernisiert.\\nInternet und Strom müssen selbst organisiert werden.\\n\\nMöbliert (Ohne: Bett, TV, Bettt...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-im-hollaendischen-viertel/3556397179-203-7962",
+   "preco": 1200.0,
+   "area": 52.0,
+   "quartos": 2.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ae0e9a3-e74c-4a3d-b752-c2befd969164?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-10",
+   "ultima_vez": "2026-11-10",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3567256715": {
+   "id": "ka-3567256715",
+   "site": "Kleinanzeigen",
+   "titulo": "Cozy Luxus Wohnung - Voll ausgestattet",
+   "resumo": "Cozy Luxus Wohnung - Voll ausgestattet",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/cozy-luxus-wohnung-voll-ausgestattet/3567256715-203-7966",
+   "preco": 950.0,
+   "area": 50.0,
+   "quartos": 1.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3858af07-baab-450e-89cf-f3e780945887?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-10",
+   "ultima_vez": "2026-11-10",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3567142430": {
+   "id": "ka-3567142430",
+   "site": "Kleinanzeigen",
+   "titulo": "Schöner Wohnen im Potsdamer Kirchsteigfeld !!",
+   "resumo": "Sie besichtigen hier eine wunderschöne 2,5 Zimmerwohnung mit Balkon.\\nDie Wohnräume sind lediglich gespachtelt. Die Wohnung wird unrenoviert vermietet. Die Böden der Wohnung werden mit attraktiven Vinyl-Planken in Holzoptik ausgestattet. Ein weiter...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schoener-wohnen-im-potsdamer-kirchsteigfeld-/3567142430-203-7965",
+   "preco": 850.0,
+   "area": 65.41,
+   "quartos": 2.5,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/776f7a04-ddf2-4e2b-8c70-17c73230b232?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-10",
+   "ultima_vez": "2026-11-10",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 12
+ "execucoes": 13
 }
