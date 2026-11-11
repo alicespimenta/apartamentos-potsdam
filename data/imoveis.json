@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -428,7 +428,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
   },
@@ -482,7 +482,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
   },
@@ -500,7 +500,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -518,7 +518,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
   },
@@ -536,7 +536,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-07",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -554,7 +554,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
   },
@@ -572,7 +572,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -590,7 +590,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -608,7 +608,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -662,7 +662,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -680,7 +680,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -698,7 +698,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": true
   },
@@ -712,11 +712,11 @@
    "area": 65.41,
    "quartos": 2.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/776f7a04-ddf2-4e2b-8c70-17c73230b232?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f52a116-ef95-4f5e-9417-6211b7d48380?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
   },
@@ -736,7 +736,7 @@
    "primeira_vez": "2026-11-10",
    "ultima_vez": "2026-11-10",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3567473407": {
    "id": "ka-3567473407",
@@ -748,14 +748,14 @@
    "area": 51.87,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e98c2c7a-cecc-444d-a1b4-852d9f6f36a5?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e23dd8b9-ac32-49ce-be1b-e223ce1c2980?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-10",
+   "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
   }
  },
- "execucoes": 14
+ "execucoes": 15
 }
