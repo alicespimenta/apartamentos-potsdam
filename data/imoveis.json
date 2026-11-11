@@ -755,7 +755,61 @@
    "ultima_vez": "2026-11-11",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3568797122": {
+   "id": "ka-3568797122",
+   "site": "Kleinanzeigen",
+   "titulo": "Helle 2-Zimmer-Wohnung in ruhiger Lage Potsdams",
+   "resumo": "Die gepflegte Wohnanlage befindet sich in Potsdam-Bornstedt mit sehr guter Anbindung an den öffentlichen Nahverkehr und fußläufig erreichbaren Einkaufsmöglichkeiten. Auch das Krongut Bornstedt und der Schlosspark Sanssouci sind in unmittelbarer Nä...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-in-ruhiger-lage-potsdams/3568797122-203-7963",
+   "preco": 610.0,
+   "area": 60.0,
+   "quartos": 2.0,
+   "local": "14469 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c809bf39-6dfd-41f9-8e48-a731e3c36be1?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3568787828": {
+   "id": "ka-3568787828",
+   "site": "Kleinanzeigen",
+   "titulo": "Renovierte Erdgeschosswohnung in Potsdam Gluckstraße",
+   "resumo": "Zur Vermietung steht eine gepflegte und frisch renovierte Erdgeschosswohnung in der Gluckstraße in Potsdam. Die Wohnung bietet auf ca. 60 m² eine gut geschnittene Raumaufteilung.\\n\\nDie Wohnung verfügt über:\\n\\nKüche (ohne Einbauküche)\\nBadezimmer mit ...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/renovierte-erdgeschosswohnung-in-potsdam-gluckstrasse/3568787828-203-7965",
+   "preco": 975.0,
+   "area": 60.0,
+   "quartos": 3.0,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6340b5b-8875-4ea1-8db0-6ba6ec763cc6?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3568614940": {
+   "id": "ka-3568614940",
+   "site": "Kleinanzeigen",
+   "titulo": "Nachmieter für helles Neubau-Eckbüro in der FoundersBase",
+   "resumo": "Wir suchen ab Dezember 2026 (flexibel, auch kurzfristig) einen Nachmieter für unser repräsentatives, lichtdurchflutetes Eckbüro im 4. OG der FoundersBase im modernen CloudHouse (Marlene-Dietrich-Allee 14). Das Büro bietet eine vollausgestattete, m...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-fuer-helles-neubau-eckbuero-in-der-foundersbase/3568614940-203-7964",
+   "preco": 857.0,
+   "area": 48.5,
+   "quartos": 1.0,
+   "local": "14482 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84c65f1c-c69d-4a8b-a26b-9c071e9c2230?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-11",
+   "ultima_vez": "2026-11-11",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 15
+ "execucoes": 16
 }
