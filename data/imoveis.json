@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -502,7 +502,7 @@
    "primeira_vez": "2026-11-07",
    "ultima_vez": "2026-11-11",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3534620950": {
    "id": "ka-3534620950",
@@ -538,7 +538,7 @@
    "primeira_vez": "2026-11-07",
    "ultima_vez": "2026-11-11",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3564816608": {
    "id": "ka-3564816608",
@@ -574,7 +574,7 @@
    "primeira_vez": "2026-11-08",
    "ultima_vez": "2026-11-11",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3565814351": {
    "id": "ka-3565814351",
@@ -590,7 +590,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -608,7 +608,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-08",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -662,7 +662,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -680,7 +680,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -698,7 +698,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": true
   },
@@ -712,11 +712,11 @@
    "area": 65.41,
    "quartos": 2.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f52a116-ef95-4f5e-9417-6211b7d48380?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63f4bf22-8014-4f81-8331-1ccc438dba5c?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": false
   },
@@ -782,13 +782,13 @@
    "url": "https://www.kleinanzeigen.de/s-anzeige/renovierte-erdgeschosswohnung-in-potsdam-gluckstrasse/3568787828-203-7965",
    "preco": 975.0,
    "area": 60.0,
-   "quartos": 3.0,
+   "quartos": 2.5,
    "local": "14480 Potsdam",
    "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6340b5b-8875-4ea1-8db0-6ba6ec763cc6?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-11",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": false
   },
@@ -806,10 +806,100 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-11",
-   "ultima_vez": "2026-11-11",
+   "ultima_vez": "2026-11-12",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3569179018": {
+   "id": "ka-3569179018",
+   "site": "Kleinanzeigen",
+   "titulo": "3-Zimmer Wohnung Nähe Nauener tor, Potsdam Innenstadt",
+   "resumo": "Schönen guten Tag,\\n\\nzum Mitte/ Ende November möchten wir Nachmieter*innen für unsere Wohnung vorschlagen.\\n\\nDie Wohnung liegt super, ist ein helles Altbauwohnung mit Stück und Dielen und ist super geschnitten. So dass es bisher zu zweit und zu drit...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-nauener-tor-potsdam-innenstadt/3569179018-203-7962",
+   "preco": 1173.0,
+   "area": 62.0,
+   "quartos": 3.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff0ddac7-48eb-4f39-9e15-01f77ce2a207?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-12",
+   "ultima_vez": "2026-11-12",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3558255027": {
+   "id": "ka-3558255027",
+   "site": "Kleinanzeigen",
+   "titulo": "2-Zimmer-Wohnung in Potsdam",
+   "resumo": "Diese gepflegte 2-Zimmer-Wohnung bietet auf rund 68 Quadratmetern ein einladendes Zuhause. Die Räumlichkeiten sind barrierefrei zugänglich und bequem über einen Aufzug zu erreichen, was den Alltag spürbar erleichtert. Die Ausstattung umfasst zudem...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-potsdam/3558255027-203-7965",
+   "preco": 1280.0,
+   "area": 68.0,
+   "quartos": 2.0,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d77debe-f466-4a40-b4a6-58ce7851b460?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-12",
+   "ultima_vez": "2026-11-12",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3569159596": {
+   "id": "ka-3569159596",
+   "site": "Kleinanzeigen",
+   "titulo": "2 Zimmer-Wohnung in Potsdam - Nähe Hauptbahnhof",
+   "resumo": "Zimmer: 2 + Balkon\\nWohnfläche: ca. 56,00 m²\\nWarmmiete: 847,00 €\\nKaltmiete: 90,00 €\\nNebenkosten: 70,00 €\\nHeizkosten in Nebenkosten: Ja\\nKaution: 3 Nettokaltmieten (2034,00 €)\\nErdgeschoß\\nVermietung OHNE Möbel\\nDer Mietvertrag enthält eine Staffelmiete...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-potsdam-naehe-hauptbahnhof/3569159596-203-7969",
+   "preco": 678.0,
+   "area": 56.0,
+   "quartos": 2.0,
+   "local": "14473 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f53de703-f260-4b43-be32-94e0adbfa353?rule=$_59.AUTO",
+   "cozinha": "citada",
+   "wbs": false,
+   "primeira_vez": "2026-11-12",
+   "ultima_vez": "2026-11-12",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3569144561": {
+   "id": "ka-3569144561",
+   "site": "Kleinanzeigen",
+   "titulo": "Wohnung zu vermieten / ab sofort",
+   "resumo": "Zur Vermietung steht eine helle und gut geschnittene 3-Zimmer-Wohnung in ruhiger, grüner Lage von Potsdam-Waldstadt II.\\n\\nDie Wohnung befindet sich im Erdgeschoss eines gepflegten Mehrfamilienhauses und verfügt über eine praktische Raumaufteilung. ...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zu-vermieten-ab-sofort/3569144561-203-7967",
+   "preco": 1250.0,
+   "area": 65.0,
+   "quartos": 3.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90f24e5e-90fe-4a60-aeec-6fbfcda2c32c?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-12",
+   "ultima_vez": "2026-11-12",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3569124876": {
+   "id": "ka-3569124876",
+   "site": "Kleinanzeigen",
+   "titulo": "Wohnung mi",
+   "resumo": "Nachmieter für schöne 2-Zimmer-Wohnung in Potsdam gesucht!\\n\\nIch suche einen Nachmieter für meine Wohnung in Potsdam, da ich beruflich nach München ziehe.\\n\\nWohnungsdetails:\\n\\n* 2 Zimmer\\n* Ca. 44,13 m² Wohnfläche\\n* Küche\\n* Badezimmer mit WC\\n* Zusätzl...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-mi/3569124876-203-7963",
+   "preco": 464.0,
+   "area": 44.0,
+   "quartos": 2.0,
+   "local": "14469 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ead93018-2054-4d6e-873c-8fff35c58836?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-12",
+   "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": false
   }
  },
- "execucoes": 16
+ "execucoes": 17
 }
