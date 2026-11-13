@@ -664,7 +664,7 @@
    "primeira_vez": "2026-11-10",
    "ultima_vez": "2026-11-13",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3556397179": {
    "id": "ka-3556397179",
@@ -917,7 +917,43 @@
    "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3570277974": {
+   "id": "ka-3570277974",
+   "site": "Kleinanzeigen",
+   "titulo": "vollmöblierte, geräumige 2-Zimmer-Wohnung in Babelsberg",
+   "resumo": "Die sehr geräumige Dachgeschosswohnung im Herzen Babelsbergs wird voll möbliert!!! angeboten.\\nBus-und Straßenbahnanbindung direkt vor der Tür!!\\nS-Bahn Anbindung 5 min Fußweg.\\n\\nAusstattung:\\n\\nAchtung bitte! Die Wohnung wird vollmöbliert angeboten!\\n\\n...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/vollmoeblierte-geraeumige-2-zimmer-wohnung-in-babelsberg/3570277974-203-21286",
+   "preco": 1300.0,
+   "area": 85.0,
+   "quartos": 2.0,
+   "local": "14482 Babelsberg Nord",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/043bcc80-82e5-4844-9832-6ac559b0bb5e?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-13",
+   "ultima_vez": "2026-11-13",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3570153517": {
+   "id": "ka-3570153517",
+   "site": "Kleinanzeigen",
+   "titulo": "Maisonette mit Balkon & großem Dachstudio in Potsdam",
+   "resumo": "Zu vermieten ist eine helle, gepflegte Maisonette-Wohnung ca 80 qm auf zwei Ebenen in ruhiger Wohnlage in Potsdam – mit viel Platz und besonderem Charakter.\\n\\nERDGESCHOSS\\n- Wohnzimmer mit bodentiefer Balkontür und Balkon mit Blick ins Grüne\\n- Zweit...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/maisonette-mit-balkon-grossem-dachstudio-in-potsdam/3570153517-203-7966",
+   "preco": 900.0,
+   "area": 84.0,
+   "quartos": 3.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/0405bc85-0342-46ce-a1c4-e9f22b461390?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-13",
+   "ultima_vez": "2026-11-13",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 19
+ "execucoes": 20
 }
