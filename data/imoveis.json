@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -592,7 +592,7 @@
    "primeira_vez": "2026-11-08",
    "ultima_vez": "2026-11-12",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3565732229": {
    "id": "ka-3565732229",
@@ -610,7 +610,7 @@
    "primeira_vez": "2026-11-08",
    "ultima_vez": "2026-11-12",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3566171802": {
    "id": "ka-3566171802",
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -662,7 +662,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -680,7 +680,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -698,7 +698,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -712,11 +712,11 @@
    "area": 65.41,
    "quartos": 2.5,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63f4bf22-8014-4f81-8331-1ccc438dba5c?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c23da606-f20e-47ec-a035-e312859ee9d8?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": false
   },
@@ -788,7 +788,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-11",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": false
   },
@@ -806,7 +806,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-11",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": false
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -860,7 +860,7 @@
    "cozinha": "citada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": true
   },
@@ -878,7 +878,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-12",
+   "ultima_vez": "2026-11-13",
    "preco_anterior": null,
    "ativo": false
   },
@@ -899,7 +899,25 @@
    "ultima_vez": "2026-11-12",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3549354868": {
+   "id": "ka-3549354868",
+   "site": "Kleinanzeigen",
+   "titulo": "komplett renovierte 2,5 Zimmerwohnung",
+   "resumo": "Das hier vorgestellte Objekt ist eine Wohnung, die ab dem 01.01.2026 zur Anmietung zur Verfügung steht. Die Wohnung wurde im Jahr 1985 erbaut und verfügt über eine Wohnfläche von 60,1 Quadratmetern. Sie ist mit insgesamt drei Zimmern ausgestattet....",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/komplett-renovierte-2-5-zimmerwohnung/3549354868-203-7966",
+   "preco": 481.0,
+   "area": 60.1,
+   "quartos": 3.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e262a74-d4fd-4aac-b6a7-8ba40bcabdc5?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-13",
+   "ultima_vez": "2026-11-13",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 18
+ "execucoes": 19
 }
