@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -680,7 +680,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -700,7 +700,7 @@
    "primeira_vez": "2026-11-10",
    "ultima_vez": "2026-11-13",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3567142430": {
    "id": "ka-3567142430",
@@ -788,7 +788,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-11",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": false
   },
@@ -806,7 +806,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-11",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": false
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -860,7 +860,7 @@
    "cozinha": "citada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -878,7 +878,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": false
   },
@@ -914,7 +914,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": false
   },
@@ -932,7 +932,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": true
   },
@@ -950,10 +950,64 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-13",
+   "ultima_vez": "2026-11-14",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3557024395": {
+   "id": "ka-3557024395",
+   "site": "Kleinanzeigen",
+   "titulo": "Zukunftsorientiert wohnen – mitten in Krampnitz",
+   "resumo": "Die ersten bezugsfertigen Wohnungen befinden sich in denkmalgeschützen Bestandgebäuden. Die Wohnungen überzeugen mit durchdachten Grundrissen, großzügigen Raumhöhen und einer modernen, hochwertigen Ausstattung. Große Fensterflächen schaffen helle,...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/zukunftsorientiert-wohnen-mitten-in-krampnitz/3557024395-203-7966",
+   "preco": 1124.0,
+   "area": 106.97,
+   "quartos": 4.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4dda703d-9362-4c94-9002-005508c250f5?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-14",
+   "ultima_vez": "2026-11-14",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3557024368": {
+   "id": "ka-3557024368",
+   "site": "Kleinanzeigen",
+   "titulo": "Historischer Charme trifft modernes Wohnen",
+   "resumo": "Die ersten bezugsfertigen Wohnungen befinden sich in denkmalgeschützen Bestandgebäuden. Die Wohnungen überzeugen mit durchdachten Grundrissen, großzügigen Raumhöhen und einer modernen, hochwertigen Ausstattung. Große Fensterflächen schaffen helle,...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/historischer-charme-trifft-modernes-wohnen/3557024368-203-7966",
+   "preco": 1143.0,
+   "area": 107.77,
+   "quartos": 4.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f056bc12-be0b-44c4-89ac-ee7a2b473c13?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-14",
+   "ultima_vez": "2026-11-14",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3570716878": {
+   "id": "ka-3570716878",
+   "site": "Kleinanzeigen",
+   "titulo": "Wohnung in Potsdam zur Untermiete",
+   "resumo": "Ca. 41 m’ Wohnfläche, 5 Etage, ohne Aufzug\\n﻿﻿Helle und sonnige Wohnung\\n﻿﻿Balkon\\nBadewanne\\n﻿﻿Küche inklusive Kühlschrank und Induktionsherd, Waschmaschine\\n\\nDie Wohnung ist sehr gut geschnitten, sie fühlt sich daher größer als 41 qm an.\\nAktuelle Mie...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-potsdam-zur-untermiete/3570716878-203-7967",
+   "preco": 319.0,
+   "area": 41.0,
+   "quartos": 1.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/699a8eff-5771-4689-bfd3-6133514a7fd2?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-14",
+   "ultima_vez": "2026-11-14",
    "preco_anterior": null,
    "ativo": false
   }
  },
- "execucoes": 20
+ "execucoes": 21
 }
