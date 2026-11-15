@@ -862,7 +862,7 @@
    "primeira_vez": "2026-11-12",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3569144561": {
    "id": "ka-3569144561",
@@ -1151,7 +1151,43 @@
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
+  },
+  "ka-3572952242": {
+   "id": "ka-3572952242",
+   "site": "Kleinanzeigen",
+   "titulo": "Lifestyle auf 55 qm - möbliert und  mit Blick auf den Pfingstberg",
+   "resumo": "Ab sofort verfügbar, einziehen und wohlfühlen und morgens aufwachen mit dem perfekten grünen Blick auf das historische Potsdam - dem Pfingstberg. Für Sie eingerichtet, komplett ausgestattet offene moderne Einbauküche, Wohnzimmer mit Balkon, Schlaf...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lifestyle-auf-55-qm-moebliert-und-mit-blick-auf-den-pfingstberg/3572952242-203-7963",
+   "preco": 1276.0,
+   "area": 55.0,
+   "quartos": 2.0,
+   "local": "14469 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b41f9b27-04e0-40a0-bcd8-3098934a8e15?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-15",
+   "ultima_vez": "2026-11-15",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3329598801": {
+   "id": "ka-3329598801",
+   "site": "Kleinanzeigen",
+   "titulo": "Schöne 2-Raumwohnung zur Miete in Potsdam Waldstadt 2 - Wentzel Dr. -",
+   "resumo": "Das im Jahr 2019 errichtete Wohngebäude bietet modernen Wohnkomfort in einer ruhigen und gut angebundenen Lage.\\nDie Immobilie umfasst insgesamt 95 Wohneinheiten und richtet sich mit ihren durchdachten Grundrissen sowohl an Singles und Paare als au...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-raumwohnung-zur-miete-in-potsdam-waldstadt-2-wentzel-dr-/3329598801-203-7967",
+   "preco": 935.0,
+   "area": 67.16,
+   "quartos": 2.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2a38a4bb-6cd1-4f91-b229-abaf4909c637?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-15",
+   "ultima_vez": "2026-11-15",
+   "preco_anterior": null,
+   "ativo": true
   }
  },
- "execucoes": 23
+ "execucoes": 24
 }
