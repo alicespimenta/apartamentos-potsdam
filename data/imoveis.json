@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -68,7 +68,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -680,7 +680,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": 1280.0,
    "ativo": true
   },
@@ -860,7 +860,7 @@
    "cozinha": "citada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -878,7 +878,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": false
   },
@@ -914,7 +914,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": false
   },
@@ -932,7 +932,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -950,7 +950,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": false
   },
@@ -968,7 +968,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -986,7 +986,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1022,7 +1022,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1040,7 +1040,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1058,7 +1058,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1076,7 +1076,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1094,7 +1094,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1112,7 +1112,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1130,10 +1130,28 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-14",
+   "ultima_vez": "2026-11-15",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3572040316": {
+   "id": "ka-3572040316",
+   "site": "Kleinanzeigen",
+   "titulo": "50qm möblierte Wohnung im Erdgeschoss eines EFH Gross Glienicke",
+   "resumo": "Voll möblierte Wohnung zu vermieten. Mindest mietdauer 1 Monat.. 80€ Reinigungs pauschale ist zusätzlich zu bezahlen und beim Auszug fällig.\\n\\nIm Grünen gelegen, mit Badeseen direkt um die Ecke und nicht weit von Berlin und Potsdam entfernt. Romant...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/50qm-moeblierte-wohnung-im-erdgeschoss-eines-efh-gross-glienicke/3572040316-203-7966",
+   "preco": 1350.0,
+   "area": 50.0,
+   "quartos": 2.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9e5abe3-28bb-4e04-99ee-e67cf4563912?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-15",
+   "ultima_vez": "2026-11-15",
    "preco_anterior": null,
    "ativo": true
   }
  },
- "execucoes": 22
+ "execucoes": 23
 }
