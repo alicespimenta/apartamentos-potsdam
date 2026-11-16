@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -70,7 +70,7 @@
    "primeira_vez": "2026-11-05",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3562728080": {
    "id": "ka-3562728080",
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -680,7 +680,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-10",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": 1280.0,
    "ativo": true
   },
@@ -860,9 +860,9 @@
    "cozinha": "citada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
-   "ativo": false
+   "ativo": true
   },
   "ka-3569144561": {
    "id": "ka-3569144561",
@@ -878,7 +878,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": false
   },
@@ -914,7 +914,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": false
   },
@@ -932,7 +932,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -950,7 +950,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": false
   },
@@ -970,7 +970,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024368": {
    "id": "ka-3557024368",
@@ -988,7 +988,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3570716878": {
    "id": "ka-3570716878",
@@ -1018,11 +1018,11 @@
    "area": 49.78,
    "quartos": 2.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8bdc5aeb-be8a-426f-8bba-d6f6d162ba33?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a021b4e9-b805-49be-9404-8ca9ad8d28db?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1042,7 +1042,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024365": {
    "id": "ka-3557024365",
@@ -1060,7 +1060,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024352": {
    "id": "ka-3557024352",
@@ -1078,7 +1078,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024376": {
    "id": "ka-3557024376",
@@ -1096,7 +1096,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024362": {
    "id": "ka-3557024362",
@@ -1114,7 +1114,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024373": {
    "id": "ka-3557024373",
@@ -1132,7 +1132,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-15",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3572040316": {
    "id": "ka-3572040316",
@@ -1148,16 +1148,16 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
   "ka-3572952242": {
    "id": "ka-3572952242",
    "site": "Kleinanzeigen",
-   "titulo": "Lifestyle auf 55 qm - möbliert und  mit Blick auf den Pfingstberg",
+   "titulo": "Lifestyle - 2 Zimmer Wohnung möbliert mit Blick zum Pfingstberg",
    "resumo": "Ab sofort verfügbar, einziehen und wohlfühlen und morgens aufwachen mit dem perfekten grünen Blick auf das historische Potsdam - dem Pfingstberg. Für Sie eingerichtet, komplett ausgestattet offene moderne Einbauküche, Wohnzimmer mit Balkon, Schlaf...",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lifestyle-auf-55-qm-moebliert-und-mit-blick-auf-den-pfingstberg/3572952242-203-7963",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/lifestyle-2-zimmer-wohnung-moebliert-mit-blick-zum-pfingstberg/3572952242-203-7963",
    "preco": 1276.0,
    "area": 55.0,
    "quartos": 2.0,
@@ -1166,7 +1166,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1184,10 +1184,28 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-16",
    "preco_anterior": null,
    "ativo": true
+  },
+  "ka-3573471752": {
+   "id": "ka-3573471752",
+   "site": "Kleinanzeigen",
+   "titulo": "Nur mit WBS für 3 Zimmer!! Groß-Glienicke: Große 3-Zimmer-Wohnung",
+   "resumo": "Nur mit WBS!! - Die große 3-Zimmer-Wohnung mit offener Küche und Duschbad liegt im 1.OG und ist über eine Außentreppe zu erreichen. Inmitten einer weitläufigen zweigeschossigen Wohnanlage bietet die Wohnung eine gute Wohnqualität. Ein Mieterkeller...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/nur-mit-wbs-fuer-3-zimmer-gross-glienicke-grosse-3-zimmer-wohnung/3573471752-203-7966",
+   "preco": 468.0,
+   "area": 72.84,
+   "quartos": 3.0,
+   "local": "14476 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9fcbd996-39fd-4610-9f7c-afec15697719?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": true,
+   "primeira_vez": "2026-11-16",
+   "ultima_vez": "2026-11-16",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 24
+ "execucoes": 25
 }
