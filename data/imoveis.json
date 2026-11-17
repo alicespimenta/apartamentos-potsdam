@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": 1280.0,
    "ativo": true
   },
@@ -914,7 +914,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": false
   },
@@ -932,7 +932,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -950,7 +950,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1022,7 +1022,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1148,7 +1148,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1166,7 +1166,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1184,7 +1184,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1238,10 +1238,46 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-17",
-   "ultima_vez": "2026-11-17",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3574697027": {
+   "id": "ka-3574697027",
+   "site": "Kleinanzeigen",
+   "titulo": "1,5 Zimmer Wohnung Teltower Vorstadt",
+   "resumo": "Wohnung in der Teltower Vorstadt, 1.5 Zimmer ab 1.12. unbefristet zur Untermiete.\\n\\nSie hat Fußbodenheizung, elektrische Jalousien, liebe Hausgemeinschaft, Hochparterre. Ist aber nicht WG geeignet.\\n\\nPreis inklusive Internet, Strom, Nebenkosten etc....",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/1-5-zimmer-wohnung-teltower-vorstadt/3574697027-203-7969",
+   "preco": 1110.0,
+   "area": 55.0,
+   "quartos": 1.5,
+   "local": "14473 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0543313b-c981-4cdc-87bc-197e12570aa6?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3574592428": {
+   "id": "ka-3574592428",
+   "site": "Kleinanzeigen",
+   "titulo": "1 Zimmer Wohnung im Holländischen Viertel ab 01.01.2027 verfügbar",
+   "resumo": "Die 1-Zimmer Wohnung befindet sich im 1.OG eines 2014 sanierten Mehrfamilienhauses im Holländschen Viertel. Die Wohnung ist komplett mit Parkettboden versehen und verfügt über eine Einbauküche. Das Badezimmer ist mit einer Wanne mit Dusche und mod...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-im-hollaendischen-viertel-ab-01-01-2027-verfuegbar/3574592428-203-7962",
+   "preco": 750.0,
+   "area": 45.3,
+   "quartos": 1.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa56fe53-c130-4700-a59f-912f53433805?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "preco_anterior": null,
+   "ativo": true
   }
  },
- "execucoes": 27
+ "execucoes": 28
 }
