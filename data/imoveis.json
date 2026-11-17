@@ -1018,7 +1018,7 @@
    "area": 49.78,
    "quartos": 2.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a021b4e9-b805-49be-9404-8ca9ad8d28db?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfbd8bae-ee86-4d0f-a3ac-640c1f022979?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
@@ -1155,14 +1155,14 @@
   "ka-3572952242": {
    "id": "ka-3572952242",
    "site": "Kleinanzeigen",
-   "titulo": "Lifestyle - 2 Zimmer Wohnung möbliert mit Blick zum Pfingstberg",
-   "resumo": "Ab sofort verfügbar, einziehen und wohlfühlen und morgens aufwachen mit dem perfekten grünen Blick auf das historische Potsdam - dem Pfingstberg. Für Sie eingerichtet, komplett ausgestattet offene moderne Einbauküche, Wohnzimmer mit Balkon, Schlaf...",
-   "url": "https://www.kleinanzeigen.de/s-anzeige/lifestyle-2-zimmer-wohnung-moebliert-mit-blick-zum-pfingstberg/3572952242-203-7963",
+   "titulo": "Fontanegärten  - möblierte 2-Zimmer-Wohnung mit Pfingstberg-Blick",
+   "resumo": "Willkommen in Ihrem neuen Zuhause, in den Fontanegärten Potsdam!\\n\\nDiese hochwertig und geschmackvoll möblierte 2-Zimmer-Wohnung vereint modernes Lifestyle & ein abgestimmtes Kunstkonzept mit einer der gefragtesten Wohnlagen Potsdams, den Fontanegä...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/fontanegaerten-moeblierte-2-zimmer-wohnung-mit-pfingstberg-blick/3572952242-203-7963",
    "preco": 1276.0,
    "area": 55.0,
    "quartos": 2.0,
    "local": "14469 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/999c00f3-f0d4-46d7-b301-bc5dd1a9461a?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4cc9ee1-c9d5-4c32-bc15-8cf3f9877e36?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-15",
@@ -1222,7 +1222,7 @@
    "primeira_vez": "2026-11-17",
    "ultima_vez": "2026-11-17",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3573617955": {
    "id": "ka-3573617955",
@@ -1234,7 +1234,7 @@
    "area": 66.78,
    "quartos": 2.5,
    "local": "14471 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f915fb4-31e5-4e85-a9bc-d5679f0e3e95?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d79d3caa-4c0a-4159-9bcb-5e4a4a2aacaa?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-17",
@@ -1243,5 +1243,5 @@
    "ativo": false
   }
  },
- "execucoes": 26
+ "execucoes": 27
 }
