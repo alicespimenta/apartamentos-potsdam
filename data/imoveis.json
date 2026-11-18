@@ -934,7 +934,7 @@
    "primeira_vez": "2026-11-13",
    "ultima_vez": "2026-11-18",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3570153517": {
    "id": "ka-3570153517",
@@ -1276,7 +1276,7 @@
    "primeira_vez": "2026-11-18",
    "ultima_vez": "2026-11-18",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3575244587": {
    "id": "ka-3575244587",
@@ -1313,7 +1313,43 @@
    "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3575408899": {
+   "id": "ka-3575408899",
+   "site": "Kleinanzeigen",
+   "titulo": "Wohnkomfort mit individuellem Gestaltungsspielraum",
+   "resumo": "Diese gut geschnittene 3-Zimmer-Wohnung in der Otterkiez 27 in 14478 Potsdam bietet ein angenehmes Wohnambiente und eine praktische Raumaufteilung. Der helle Wohnbereich lädt zum Entspannen ein und bietet direkten Zugang zum Balkon, auf dem Sie ge...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/wohnkomfort-mit-individuellem-gestaltungsspielraum/3575408899-203-7967",
+   "preco": 527.0,
+   "area": 68.68,
+   "quartos": 3.0,
+   "local": "14478 Potsdam bietet ein angenehmes Wohnambiente und eine praktische Raumaufteilung. Der helle Wohnbereich lädt zum Entspannen ein und bietet direkten Zugang zum Balkon, auf dem Sie ge...\",\"contentUrl\":\"https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39b9b696-eb45-4635-b494-0b9c0873d2ce?rule=$_59.AUTO\",\"representativeOfPage\":false,\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\"}",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39b9b696-eb45-4635-b494-0b9c0873d2ce?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3575359559": {
+   "id": "ka-3575359559",
+   "site": "Kleinanzeigen",
+   "titulo": "Beliebte Wohnlage in Potsdam-Waldstadt",
+   "resumo": "Diese gut geschnittene 3-Zimmer-Wohnung überzeugt durch ihren funktionalen Grundriss und bietet ein angenehmes Wohnambiente für Paare, kleine Familien oder Berufstätige. Alle Wohnräume sind bequem vom zentralen Flur aus erreichbar, wodurch die Woh...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/beliebte-wohnlage-in-potsdam-waldstadt/3575359559-203-7967",
+   "preco": 586.0,
+   "area": 66.24,
+   "quartos": 3.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/164682f5-d7f5-41f0-aa04-b278fd7b6550?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 29
+ "execucoes": 30
 }
