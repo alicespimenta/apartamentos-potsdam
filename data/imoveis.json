@@ -1018,7 +1018,7 @@
    "area": 49.78,
    "quartos": 2.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfbd8bae-ee86-4d0f-a3ac-640c1f022979?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15a6102d-5a09-430a-b78f-b19e415f961f?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
@@ -1072,13 +1072,13 @@
    "area": 75.69,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/347fc7a4-1fed-40c4-9d83-7c5df98f3a86?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/4092d935-7b5e-435f-84a3-b02ad114ec87?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
-   "ativo": false
+   "ativo": true
   },
   "ka-3557024376": {
    "id": "ka-3557024376",
@@ -1108,13 +1108,13 @@
    "area": 100.63,
    "quartos": 3.5,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8a392ba-1dff-46bc-8add-36d653539070?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1545efd7-2acc-40e6-8b59-e014065b7ba5?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-14",
-   "ultima_vez": "2026-11-15",
+   "ultima_vez": "2026-11-18",
    "preco_anterior": null,
-   "ativo": false
+   "ativo": true
   },
   "ka-3557024373": {
    "id": "ka-3557024373",
@@ -1234,7 +1234,7 @@
    "area": 66.78,
    "quartos": 2.5,
    "local": "14471 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d79d3caa-4c0a-4159-9bcb-5e4a4a2aacaa?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9493f10e-ef26-4583-9ee3-18350d2f2ca4?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-17",
@@ -1277,7 +1277,43 @@
    "ultima_vez": "2026-11-18",
    "preco_anterior": null,
    "ativo": true
+  },
+  "ka-3575244587": {
+   "id": "ka-3575244587",
+   "site": "Kleinanzeigen",
+   "titulo": "Besichtigung 22.11.26 // 2-Zimmer-Neubau, 76 m², Balkon, Potsdam",
+   "resumo": "Am Sonntag, den 22.11. haben Sie zwischen 10:00 und 11:00 Uhr die Möglichkeit, die Immobilie im Rahmen eines Open House ganz unkompliziert zu besichtigen. Wir freuen uns auf Ihren Besuch!\\n\\nDie Wohnung\\n\\n2 Zimmer, 76 m², 1. Etage mit Aufzug\\nNeubau v...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/besichtigung-22-11-26-2-zimmer-neubau-76-m-balkon-potsdam/3575244587-203-7969",
+   "preco": 1150.0,
+   "area": 76.11,
+   "quartos": 2.0,
+   "local": "14473 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7060ac80-d1de-4d2c-b6dd-211a050554ba?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3575085393": {
+   "id": "ka-3575085393",
+   "site": "Kleinanzeigen",
+   "titulo": "Einfach suuuuuuuuper, mega, klasse..........",
+   "resumo": "Freuen Sie sich auf die Besichtigung dieser wunderschöne 3-Zimmerwohnung mit Balkon.\\nDie Wohnung wird unrenoviert vermietet. Bitte beachten Sie, dass es sich bei den Fotos lediglich um Musterbilder handelt. Die Böden der Wohnung werden mit attrakt...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/einfach-suuuuuuuuper-mega-klasse-/3575085393-203-7965",
+   "preco": 987.0,
+   "area": 78.52,
+   "quartos": 3.0,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61ce6d70-8ffe-4a86-abda-0eacfcaf8693?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-18",
+   "ultima_vez": "2026-11-18",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 28
+ "execucoes": 29
 }
