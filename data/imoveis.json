@@ -1024,7 +1024,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-19",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024366": {
    "id": "ka-3557024366",
@@ -1078,7 +1078,7 @@
    "primeira_vez": "2026-11-14",
    "ultima_vez": "2026-11-19",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3557024376": {
    "id": "ka-3557024376",
@@ -1493,7 +1493,25 @@
    "ultima_vez": "2026-11-19",
    "preco_anterior": null,
    "ativo": true
+  },
+  "ka-3576269145": {
+   "id": "ka-3576269145",
+   "site": "Kleinanzeigen",
+   "titulo": "Schöne 2-Zimmer-Wohnung mit Balkon",
+   "resumo": "Ich vermiete eine gepflegte 2-Zimmer-Wohnung mit ca. 42 m² Wohnfläche im 4. Stock mit Aufzug. Die Wohnung verfügt über einen Balkon sowie ein eigenes Kellerabteil.\\n​Zur Raumaufteilung gehören zwei gut geschnittene Zimmer, ein Badezimmer sowie ein ...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-mit-balkon/3576269145-203-7969",
+   "preco": 950.0,
+   "area": 42.0,
+   "quartos": 2.0,
+   "local": "14473 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ce6cb36-31c3-4408-bd95-31279bea6535?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-19",
+   "ultima_vez": "2026-11-19",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 31
+ "execucoes": 32
 }
