@@ -628,7 +628,7 @@
    "primeira_vez": "2026-11-09",
    "ultima_vez": "2026-11-21",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3566522884": {
    "id": "ka-3566522884",
@@ -1168,7 +1168,7 @@
    "primeira_vez": "2026-11-15",
    "ultima_vez": "2026-11-21",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3329598801": {
    "id": "ka-3329598801",
@@ -1673,7 +1673,79 @@
    "ultima_vez": "2026-11-21",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3561874712": {
+   "id": "ka-3561874712",
+   "site": "Kleinanzeigen",
+   "titulo": "Schöne 1,5 Zimmer Wohnung in Potsdam Rote Kaserne / ab 01.12.2026",
+   "resumo": "Ich ziehe Ende November aus meiner schönen Wohnung in Potsdam aus. Sie ist daher ab dem 01.12.2026 verfügbar.\\n\\nAusstattung:\\n\\n* 43 m² Wohnfläche | 1,5 Zimmer\\n* 2012 renoviert\\n* Einbauküche vorhanden\\n* Ca. 3,50 m Deckenhöhe im Wohnzimmer\\n* Barrieref...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-1-5-zimmer-wohnung-in-potsdam-rote-kaserne-ab-01-12-2026/3561874712-203-7963",
+   "preco": 960.0,
+   "area": 43.0,
+   "quartos": 1.5,
+   "local": "14469 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12829f16-1b89-474d-8a14-e45b4032587d?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-21",
+   "ultima_vez": "2026-11-21",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3578595641": {
+   "id": "ka-3578595641",
+   "site": "Kleinanzeigen",
+   "titulo": "3-Raum-Wohnung 78m² Kirchsteigfeld - Einbauküche",
+   "resumo": "Suchen Nachmieter, die unsere Einbauküche von Porta gegen Abstand übernehmen. Laut Vermieter nur eigenes Einkommen (kein ALG und ähnliches).\\nDie Wohnung ist im hinteren Teil vom Kirchsteigfeld und ist sehr ruhig gelegen mit äußerst viel Tageslicht...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/3-raum-wohnung-78m-kirchsteigfeld-einbaukueche/3578595641-203-7965",
+   "preco": 877.0,
+   "area": 78.0,
+   "quartos": 3.0,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a87db2c-7510-42fb-b748-c144e4cbb0ef?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-21",
+   "ultima_vez": "2026-11-21",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3550014671": {
+   "id": "ka-3550014671",
+   "site": "Kleinanzeigen",
+   "titulo": "Ihr neues Zuhause wartet auf Sie!",
+   "resumo": "Diese attraktive 3-Zimmer-Wohnung im 3. Obergeschoss überzeugt mit einem gut durchdachten Grundriss und einer angenehmen Raumaufteilung. Der großzügige Wohnbereich bildet das Herzstück der Wohnung und bietet ausreichend Platz für eine gemütliche W...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/ihr-neues-zuhause-wartet-auf-sie-/3550014671-203-7967",
+   "preco": 592.0,
+   "area": 61.13,
+   "quartos": 3.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/732ecb05-5365-4b18-b5b6-6349ebb6bef5?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-21",
+   "ultima_vez": "2026-11-21",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3550014307": {
+   "id": "ka-3550014307",
+   "site": "Kleinanzeigen",
+   "titulo": "Ankommen und wohlfühlen in Waldstadt",
+   "resumo": "Diese gut geschnittene 2-Zimmer-Wohnung im 2. Obergeschoss überzeugt mit einer praktischen Raumaufteilung und einem hellen Wohnambiente.\\nVom Eingangsbereich gelangen Sie in den zentralen Flur, von dem aus alle Räume bequem erreichbar sind. Das gro...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/ankommen-und-wohlfuehlen-in-waldstadt/3550014307-203-7967",
+   "preco": 483.0,
+   "area": 50.03,
+   "quartos": 2.0,
+   "local": "14478 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3ffce44-915d-4bd0-b729-3df8296ee907?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-21",
+   "ultima_vez": "2026-11-21",
+   "preco_anterior": null,
+   "ativo": false
   }
  },
- "execucoes": 35
+ "execucoes": 36
 }
