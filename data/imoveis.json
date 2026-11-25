@@ -442,7 +442,7 @@
    "area": 86.65,
    "quartos": 3.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05000e16-e6e3-4762-9596-3a4909803bbc?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e530a4b-c429-435b-91df-7397fb7a5030?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
@@ -1360,7 +1360,7 @@
    "area": 51.91,
    "quartos": 2.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0eeb4555-cf1d-42ae-94cf-ce7608834c26?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ef2d4fd-50d5-4655-913c-fc91f8aba445?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-19",
@@ -1378,7 +1378,7 @@
    "area": 91.53,
    "quartos": 3.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd9073e-7db9-4478-8761-9faaa9a8acd8?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15e2ea0b-0bab-4b46-9cf9-bb8291cf247b?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-19",
@@ -1414,7 +1414,7 @@
    "area": 109.21,
    "quartos": 4.0,
    "local": "14476 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70deba4b-70f3-4751-a38b-2f3bf46e6e58?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c25d8ab7-3554-48a0-901a-97be924c176e?rule=$_59.AUTO",
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-19",
@@ -1474,7 +1474,7 @@
    "primeira_vez": "2026-11-19",
    "ultima_vez": "2026-11-25",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3575940523": {
    "id": "ka-3575940523",
@@ -1492,7 +1492,7 @@
    "primeira_vez": "2026-11-19",
    "ultima_vez": "2026-11-25",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3576269145": {
    "id": "ka-3576269145",
@@ -1720,7 +1720,7 @@
    "area": 61.13,
    "quartos": 3.0,
    "local": "14478 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4298a92-76b9-4ee4-b326-3d068b38e4ad?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/961e1bb9-a109-4f6e-bf7b-8cd0cfd11965?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-21",
@@ -1738,7 +1738,7 @@
    "area": 50.03,
    "quartos": 2.0,
    "local": "14478 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f1cf3d1-bbb0-4080-aed8-46ac948c97eb?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0022bdbe-e2e2-4207-abfa-9a601c655b2f?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-21",
@@ -1852,7 +1852,7 @@
    "primeira_vez": "2026-11-24",
    "ultima_vez": "2026-11-25",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3581151245": {
    "id": "ka-3581151245",
@@ -1899,8 +1899,44 @@
    "preco": 551.0,
    "area": 67.38,
    "quartos": 4.0,
-   "local": "14478 Potsdam bietet ein angenehmes Wohnambiente und eine praktische Raumaufteilung. Der helle Wohnbereich lädt zum Entspannen ein und bietet direkten Zugang zum Balkon, auf dem Sie ge...\",\"contentUrl\":\"https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9fa2a3cf-1271-4159-9105-2676eea74923?rule=$_59.AUTO\",\"representativeOfPage\":false,\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\"}",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9fa2a3cf-1271-4159-9105-2676eea74923?rule=$_59.AUTO",
+   "local": "14478 Potsdam bietet ein angenehmes Wohnambiente und eine praktische Raumaufteilung. Der helle Wohnbereich lädt zum Entspannen ein und bietet direkten Zugang zum Balkon, auf dem Sie ge...\",\"contentUrl\":\"https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0a1d52b-33bc-4741-bd4f-52fe73df6ead?rule=$_59.AUTO\",\"representativeOfPage\":false,\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\"}",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0a1d52b-33bc-4741-bd4f-52fe73df6ead?rule=$_59.AUTO",
+   "cozinha": "sem",
+   "wbs": false,
+   "primeira_vez": "2026-11-25",
+   "ultima_vez": "2026-11-25",
+   "preco_anterior": null,
+   "ativo": false
+  },
+  "ka-3552783032": {
+   "id": "ka-3552783032",
+   "site": "Kleinanzeigen",
+   "titulo": "Gemütliche 2 Zimmer Wohnung - ideal für Singles! Obj. 10170\\n*Erstbezug nach Neubau",
+   "resumo": "Diese attraktive 2 Zimmer Wohnung im 1. Obergeschoss bietet auf ca 46 m² Wohnfläche ein gut durchdachtes modernes Wohnkonzept. Helle Räume, eine klare Aufteilung und die Terrasse schaffen ein freundliches Wohngefühl und machen die Wohnung zu einem...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-wohnung-ideal-fuer-singles-obj-10170-erstbezug-nach-neubau/3552783032-203-7962",
+   "preco": 1097.0,
+   "area": 45.68,
+   "quartos": 2.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e2a0552-5260-49ac-9bc0-f20136ca6bf2?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-25",
+   "ultima_vez": "2026-11-25",
+   "preco_anterior": null,
+   "ativo": true
+  },
+  "ka-3581893973": {
+   "id": "ka-3581893973",
+   "site": "Kleinanzeigen",
+   "titulo": "Ihr (Wohn)-Traum wird wahr !!",
+   "resumo": "Freuen Sie sich auf die Besichtigung dieser wunderschönen Wohnung mit Balkon, die unrenoviert vermietet wird.\\nDie Böden der Wohnung sind mit attraktiven Vinyl-Planken in Holzoptik ausgestattet. Ein weiteres Highlight: Das moderne Wannenbad ist gef...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/ihr-wohn-traum-wird-wahr-/3581893973-203-7965",
+   "preco": 802.0,
+   "area": 61.44,
+   "quartos": 2.0,
+   "local": "14480 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6ddca5a8-99c2-40d5-9412-dd54c28c7df0?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-25",
@@ -1909,5 +1945,5 @@
    "ativo": false
   }
  },
- "execucoes": 42
+ "execucoes": 43
 }
