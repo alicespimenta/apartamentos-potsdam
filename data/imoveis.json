@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -446,7 +446,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-06",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": 1250.0,
    "ativo": true
   },
@@ -914,7 +914,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1364,7 +1364,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-19",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1382,7 +1382,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-19",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1418,7 +1418,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-19",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1580,7 +1580,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-20",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1616,7 +1616,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-20",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1652,7 +1652,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-21",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1688,7 +1688,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-21",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": 960.0,
    "ativo": true
   },
@@ -1724,7 +1724,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-21",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1742,7 +1742,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-21",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1828,11 +1828,11 @@
    "area": 75.78,
    "quartos": 2.0,
    "local": "14473 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/faf1f766-c98a-4ce8-8419-e7d7bf7a7e55?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b44a26f-c47f-435f-8654-ab5f32da0652?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-24",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1868,7 +1868,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-24",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1886,7 +1886,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1904,7 +1904,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1922,7 +1922,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1940,10 +1940,28 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-25",
+   "ultima_vez": "2026-11-26",
    "preco_anterior": null,
    "ativo": false
+  },
+  "ka-3552780919": {
+   "id": "ka-3552780919",
+   "site": "Kleinanzeigen",
+   "titulo": "Perfekte 2 Zimmer Wohnung - ideal für Singles! Obj. 10157\\n*Erstbezug nach Neubau",
+   "resumo": "Diese attraktive 2 Zimmer Wohnung mit ca. 53 m² Wohnfläche überzeugt durch eine durchdachte Raumaufteilung, helle Räume und ein angenehm modernes Wohngefühl. Sie eignet sich ideal für Singles oder Paare, die Wert auf eine komfortable und zugleich ...",
+   "url": "https://www.kleinanzeigen.de/s-anzeige/perfekte-2-zimmer-wohnung-ideal-fuer-singles-obj-10157-erstbezug-nach-neubau/3552780919-203-7962",
+   "preco": 1227.0,
+   "area": 53.34,
+   "quartos": 2.0,
+   "local": "14467 Potsdam",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0cd0072d-33df-45bd-a2dc-46fbbe5380f9?rule=$_59.AUTO",
+   "cozinha": "confirmada",
+   "wbs": false,
+   "primeira_vez": "2026-11-26",
+   "ultima_vez": "2026-11-26",
+   "preco_anterior": null,
+   "ativo": true
   }
  },
- "execucoes": 43
+ "execucoes": 44
 }
