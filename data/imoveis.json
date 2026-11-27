@@ -14,7 +14,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -32,7 +32,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -50,7 +50,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-05",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -626,7 +626,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-09",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -842,7 +842,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-12",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": 1250.0,
    "ativo": true
   },
@@ -914,7 +914,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-13",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1580,7 +1580,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-20",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1618,7 +1618,7 @@
    "primeira_vez": "2026-11-20",
    "ultima_vez": "2026-11-27",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3577123999": {
    "id": "ka-3577123999",
@@ -1654,7 +1654,7 @@
    "primeira_vez": "2026-11-21",
    "ultima_vez": "2026-11-27",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3577744488": {
    "id": "ka-3577744488",
@@ -1688,7 +1688,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-21",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": 960.0,
    "ativo": true
   },
@@ -1832,7 +1832,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-24",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1868,7 +1868,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-24",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1886,7 +1886,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1922,7 +1922,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1940,7 +1940,7 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-25",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": false
   },
@@ -1958,7 +1958,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-26",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1976,7 +1976,7 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-26",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": true
   },
@@ -1994,10 +1994,10 @@
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-26",
-   "ultima_vez": "2026-11-27",
+   "ultima_vez": "2026-11-28",
    "preco_anterior": null,
    "ativo": false
   }
  },
- "execucoes": 47
+ "execucoes": 48
 }
