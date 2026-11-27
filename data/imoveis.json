@@ -1366,7 +1366,7 @@
    "primeira_vez": "2026-11-19",
    "ultima_vez": "2026-11-27",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3575940528": {
    "id": "ka-3575940528",
@@ -1384,7 +1384,7 @@
    "primeira_vez": "2026-11-19",
    "ultima_vez": "2026-11-27",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3575940526": {
    "id": "ka-3575940526",
@@ -1420,7 +1420,7 @@
    "primeira_vez": "2026-11-19",
    "ultima_vez": "2026-11-27",
    "preco_anterior": null,
-   "ativo": true
+   "ativo": false
   },
   "ka-3575941149": {
    "id": "ka-3575941149",
@@ -1616,9 +1616,9 @@
    "cozinha": "confirmada",
    "wbs": false,
    "primeira_vez": "2026-11-20",
-   "ultima_vez": "2026-11-26",
+   "ultima_vez": "2026-11-27",
    "preco_anterior": null,
-   "ativo": false
+   "ativo": true
   },
   "ka-3577123999": {
    "id": "ka-3577123999",
@@ -1828,7 +1828,7 @@
    "area": 75.78,
    "quartos": 2.0,
    "local": "14473 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b44a26f-c47f-435f-8654-ab5f32da0652?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae005463-89a1-4df7-8a93-3197ceedfbc9?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-24",
@@ -1936,7 +1936,7 @@
    "area": 61.44,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7be92f7d-a878-4a43-9bf2-c1cbbfb308d0?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a05cb678-6b8d-445d-87c6-e82630233059?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-25",
@@ -1990,7 +1990,7 @@
    "area": 69.5,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5476fb0c-70c7-4660-9728-e795ac149035?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15455366-a844-4e64-a4a9-cc7b5383ae0f?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-26",
@@ -1999,5 +1999,5 @@
    "ativo": false
   }
  },
- "execucoes": 46
+ "execucoes": 47
 }
