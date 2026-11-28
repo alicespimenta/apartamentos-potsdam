@@ -834,7 +834,7 @@
    "titulo": "2-Zimmer-Wohnung in Potsdam",
    "resumo": "Attraktive 2-Zimmer-Wohnung mit offener Wohnküche in Potsdam\\n\\nDiese attraktive 2-Zimmer-Wohnung mit einer Wohnfläche von ca. 68 m² befindet sich in 14480 Potsdam. Die Wohnung überzeugt durch ihre großzügige Raumaufteilung und eine offene Wohnküche...",
    "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-potsdam/3558255027-203-7965",
-   "preco": 1200.0,
+   "preco": 1150.0,
    "area": 68.0,
    "quartos": 2.0,
    "local": "14480 Potsdam. Die Wohnung überzeugt durch ihre großzügige Raumaufteilung und eine offene Wohnküche...\",\"contentUrl\":\"https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd8108b3-643c-4012-9d46-b667c50930e7?rule=$_59.AUTO\",\"representativeOfPage\":false,\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\"}",
@@ -843,7 +843,7 @@
    "wbs": false,
    "primeira_vez": "2026-11-12",
    "ultima_vez": "2026-11-28",
-   "preco_anterior": 1250.0,
+   "preco_anterior": 1200.0,
    "ativo": true
   },
   "ka-3569159596": {
@@ -1936,7 +1936,7 @@
    "area": 61.44,
    "quartos": 2.0,
    "local": "14480 Potsdam",
-   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a05cb678-6b8d-445d-87c6-e82630233059?rule=$_59.AUTO",
+   "foto": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59818c76-d0c0-4457-b2be-a756bf9632f5?rule=$_59.AUTO",
    "cozinha": "sem",
    "wbs": false,
    "primeira_vez": "2026-11-25",
@@ -1999,5 +1999,5 @@
    "ativo": false
   }
  },
- "execucoes": 48
+ "execucoes": 49
 }
